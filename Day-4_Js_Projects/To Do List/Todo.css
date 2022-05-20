@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.heading{
+    color: brown;
+    text-align: center;
+}
+.container{
+    margin: auto;
+}
+
+.navbar{
+    background-color: rgb(2, 2, 51);
+    color: antiquewhite;
+    width: 100vw;
+    height: 65px;
+    top: 0;
+    position: fixed;
+}
+.navbar h2{
+    padding: 20px;
+    padding-left: 20px;
+}
+.card-title{
+    margin-left: 30px;
+    margin-top: 70px;
+    font-size: 28px;
+}
+
+.form-group{
+    
+    margin-top: 11px;
+    margin-left: 20px ;
+}
+
+.btn{
+    margin-left: 30px;
+    margin-top: 15px;
+    width: 150px;
+    height: 35px;
+    border-radius: 7px;
+    background-color: rgb(2, 2, 51);
+    color: antiquewhite;
+    font-size: 19px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.form-control{
+    width: 900px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.ynotes{
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 28px;
+}
+
+#notes{
+    margin-left: 100px;
+    margin-top: 7px;
+    height: 50px;
+    
+}
+
+.card-body{
+    border: 2px solid rgb(92, 92, 92);
+    height: 425px;
+    margin-top: 100px;
+    border-radius: 20px;
+    width: 1000px;
+    margin-left: 100px;
+}
